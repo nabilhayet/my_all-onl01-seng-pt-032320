@@ -1,4 +1,4 @@
-require 'pry'
+
 
 ddef my_all?(collection)
   i = 0
